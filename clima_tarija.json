@@ -1,0 +1,93 @@
+{
+ "fuente": "CHIRPS v2.0 (UCSB), promedio departamental de Tarija, lluvia mensual",
+ "periodo": {
+  "desde": 1981,
+  "hasta": 2026
+ },
+ "meses": [
+  {
+   "mes": 1,
+   "mediana_mm": 131.7,
+   "minimo_mm": 64.4,
+   "maximo_mm": 240.7,
+   "anios": 46
+  },
+  {
+   "mes": 2,
+   "mediana_mm": 115.8,
+   "minimo_mm": 60.0,
+   "maximo_mm": 235.8,
+   "anios": 46
+  },
+  {
+   "mes": 3,
+   "mediana_mm": 107.9,
+   "minimo_mm": 32.1,
+   "maximo_mm": 195.2,
+   "anios": 46
+  },
+  {
+   "mes": 4,
+   "mediana_mm": 48.0,
+   "minimo_mm": 15.9,
+   "maximo_mm": 114.4,
+   "anios": 45
+  },
+  {
+   "mes": 5,
+   "mediana_mm": 9.4,
+   "minimo_mm": 5.1,
+   "maximo_mm": 15.1,
+   "anios": 45
+  },
+  {
+   "mes": 6,
+   "mediana_mm": 8.4,
+   "minimo_mm": 5.9,
+   "maximo_mm": 18.0,
+   "anios": 45
+  },
+  {
+   "mes": 7,
+   "mediana_mm": 2.8,
+   "minimo_mm": 1.9,
+   "maximo_mm": 5.9,
+   "anios": 45
+  },
+  {
+   "mes": 8,
+   "mediana_mm": 4.1,
+   "minimo_mm": 2.9,
+   "maximo_mm": 7.1,
+   "anios": 45
+  },
+  {
+   "mes": 9,
+   "mediana_mm": 8.5,
+   "minimo_mm": 4.6,
+   "maximo_mm": 23.6,
+   "anios": 45
+  },
+  {
+   "mes": 10,
+   "mediana_mm": 29.2,
+   "minimo_mm": 10.2,
+   "maximo_mm": 75.9,
+   "anios": 45
+  },
+  {
+   "mes": 11,
+   "mediana_mm": 55.8,
+   "minimo_mm": 18.4,
+   "maximo_mm": 107.1,
+   "anios": 45
+  },
+  {
+   "mes": 12,
+   "mediana_mm": 111.6,
+   "minimo_mm": 50.2,
+   "maximo_mm": 180.9,
+   "anios": 44
+  }
+ ]
+}
